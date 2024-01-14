@@ -35,7 +35,7 @@ system_git_clone() {
   sleep 2
 
   sudo su - deploy <<EOF
-  git clone https://github.com/vemfazer/whaticket-versao-03-12-canal-vem-fazer /home/deploy/whaticket/
+  git clone https://github.com/LucasMachadoo/whaticket-saas /home/deploy/whaticket/
 EOF
 
   sleep 2
